@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5Strings", "5Strings\5Strin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6ConversaoDeDados", "6ConversaoDeDados\6ConversaoDeDados.csproj", "{7FDACD39-053F-42FE-9A88-B164530569B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7OperadoresAritimeticos", "7OperadoresAritimeticos\7OperadoresAritimeticos.csproj", "{231814D9-E57B-4F7B-8DD9-39BB90AFFE80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7OperadoresAritimeticos", "7OperadoresAritimeticos\7OperadoresAritimeticos.csproj", "{231814D9-E57B-4F7B-8DD9-39BB90AFFE80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8Metodos", "8Metodos\8Metodos.csproj", "{450D507B-C2A7-4F5F-BB2A-4B7EACB5B414}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{231814D9-E57B-4F7B-8DD9-39BB90AFFE80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{231814D9-E57B-4F7B-8DD9-39BB90AFFE80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{231814D9-E57B-4F7B-8DD9-39BB90AFFE80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450D507B-C2A7-4F5F-BB2A-4B7EACB5B414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450D507B-C2A7-4F5F-BB2A-4B7EACB5B414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450D507B-C2A7-4F5F-BB2A-4B7EACB5B414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450D507B-C2A7-4F5F-BB2A-4B7EACB5B414}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
