@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7OperadoresAritimeticos", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8Metodos", "8Metodos\8Metodos.csproj", "{450D507B-C2A7-4F5F-BB2A-4B7EACB5B414}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11ControleDeFluxo", "11ControleDeFluxo\11ControleDeFluxo.csproj", "{D04277BE-5676-4BD6-B5E7-882323C1DE55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11ControleDeFluxo", "11ControleDeFluxo\11ControleDeFluxo.csproj", "{D04277BE-5676-4BD6-B5E7-882323C1DE55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12TratamentoDeErros", "12TratamentoDeErros\12TratamentoDeErros.csproj", "{7F3AC0BA-A28D-49AF-9515-AF357A3F8980}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{D04277BE-5676-4BD6-B5E7-882323C1DE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D04277BE-5676-4BD6-B5E7-882323C1DE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D04277BE-5676-4BD6-B5E7-882323C1DE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3AC0BA-A28D-49AF-9515-AF357A3F8980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3AC0BA-A28D-49AF-9515-AF357A3F8980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3AC0BA-A28D-49AF-9515-AF357A3F8980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3AC0BA-A28D-49AF-9515-AF357A3F8980}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
