@@ -19,11 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11ControleDeFluxo", "11Cont
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12TratamentoDeErros", "12TratamentoDeErros\12TratamentoDeErros.csproj", "{7F3AC0BA-A28D-49AF-9515-AF357A3F8980}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14ArraysEMatrizes", "14ArraysEMatrizes\14ArraysEMatrizes.csproj", "{A760AB1F-9EDE-4DC8-92BB-5567316F2B35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13ArraysEMatrizes", "13ArraysEMatrizes\13ArraysEMatrizes.csproj", "{A760AB1F-9EDE-4DC8-92BB-5567316F2B35}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14Exercicios", "14Exercicios\14Exercicios.csproj", "{6265414D-0EF9-43E6-BC0E-D174215A1E11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15Colecoes", "15Colecoes\15Colecoes.csproj", "{15373B6B-0050-4FE3-B2F2-7B2462C7E6D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15Colecoes", "15Colecoes\15Colecoes.csproj", "{15373B6B-0050-4FE3-B2F2-7B2462C7E6D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
