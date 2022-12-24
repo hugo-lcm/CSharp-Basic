@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16Enum", "16Enum\16Enum.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20AtributosEPropriedadesDaClasse", "20AtributosEPropriedadesDaClasse\20AtributosEPropriedadesDaClasse.csproj", "{3A508B7B-7BE1-49DD-97C8-908245E19A9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21MembrosEstaticos", "21MembrosEstaticos\21MembrosEstaticos.csproj", "{4480D039-3C5C-48DC-B6D7-748D2CF53699}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3A508B7B-7BE1-49DD-97C8-908245E19A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A508B7B-7BE1-49DD-97C8-908245E19A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A508B7B-7BE1-49DD-97C8-908245E19A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4480D039-3C5C-48DC-B6D7-748D2CF53699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4480D039-3C5C-48DC-B6D7-748D2CF53699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4480D039-3C5C-48DC-B6D7-748D2CF53699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4480D039-3C5C-48DC-B6D7-748D2CF53699}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
