@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20AtributosEPropriedadesDaC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21MembrosEstaticos", "21MembrosEstaticos\21MembrosEstaticos.csproj", "{4480D039-3C5C-48DC-B6D7-748D2CF53699}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22 - construtores", "22 - construtores\22 - construtores.csproj", "{2B6E2952-EF66-4535-907D-D65C6FC5BB30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{4480D039-3C5C-48DC-B6D7-748D2CF53699}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4480D039-3C5C-48DC-B6D7-748D2CF53699}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4480D039-3C5C-48DC-B6D7-748D2CF53699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6E2952-EF66-4535-907D-D65C6FC5BB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6E2952-EF66-4535-907D-D65C6FC5BB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6E2952-EF66-4535-907D-D65C6FC5BB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6E2952-EF66-4535-907D-D65C6FC5BB30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
