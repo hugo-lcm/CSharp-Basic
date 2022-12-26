@@ -27,11 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15Colecoes", "15Colecoes\15
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16Enum", "16Enum\16Enum.csproj", "{237F879F-AB5E-4C7F-B4FF-F534A1EEC786}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20AtributosEPropriedadesDaClasse", "20AtributosEPropriedadesDaClasse\20AtributosEPropriedadesDaClasse.csproj", "{3A508B7B-7BE1-49DD-97C8-908245E19A9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20AtributosEPropriedadesDaClasse", "20AtributosEPropriedadesDaClasse\20AtributosEPropriedadesDaClasse.csproj", "{3A508B7B-7BE1-49DD-97C8-908245E19A9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21MembrosEstaticos", "21MembrosEstaticos\21MembrosEstaticos.csproj", "{4480D039-3C5C-48DC-B6D7-748D2CF53699}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21MembrosEstaticos", "21MembrosEstaticos\21MembrosEstaticos.csproj", "{4480D039-3C5C-48DC-B6D7-748D2CF53699}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22 - construtores", "22 - construtores\22 - construtores.csproj", "{2B6E2952-EF66-4535-907D-D65C6FC5BB30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22Construtores", "22 - construtores\22Construtores.csproj", "{2B6E2952-EF66-4535-907D-D65C6FC5BB30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
