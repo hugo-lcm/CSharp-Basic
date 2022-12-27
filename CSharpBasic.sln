@@ -31,7 +31,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20AtributosEPropriedadesDaC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21MembrosEstaticos", "21MembrosEstaticos\21MembrosEstaticos.csproj", "{4480D039-3C5C-48DC-B6D7-748D2CF53699}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22Construtores", "22 - construtores\22Construtores.csproj", "{2B6E2952-EF66-4535-907D-D65C6FC5BB30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22Construtores", "22Construtores\22Construtores.csproj", "{2B6E2952-EF66-4535-907D-D65C6FC5BB30}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23MetodosDasClasses", "23MetodosDasClasses\23MetodosDasClasses.csproj", "{8752E85D-184E-4139-ADCC-82205AE08074}"
 EndProject
