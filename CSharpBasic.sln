@@ -35,9 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22Construtores", "22 - cons
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23MetodosDasClasses", "23MetodosDasClasses\23MetodosDasClasses.csproj", "{8752E85D-184E-4139-ADCC-82205AE08074}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24SobrecargaDeMetodos", "24SobrecargaDeMetodos\24SobrecargaDeMetodos.csproj", "{41C6C80B-6A81-455F-B8E2-610CBE3511C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24SobrecargaDeMetodos", "24SobrecargaDeMetodos\24SobrecargaDeMetodos.csproj", "{41C6C80B-6A81-455F-B8E2-610CBE3511C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25Heranca", "25Heranca\25Heranca.csproj", "{15EE6B0A-8B9A-4AEF-87A4-A87256CB50DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25Heranca", "25Heranca\25Heranca.csproj", "{15EE6B0A-8B9A-4AEF-87A4-A87256CB50DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26Encapsulamento", "26Encapsulamento\26Encapsulamento.csproj", "{9A1BF68E-C84D-4712-956E-8F8B1EA757C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{15EE6B0A-8B9A-4AEF-87A4-A87256CB50DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15EE6B0A-8B9A-4AEF-87A4-A87256CB50DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15EE6B0A-8B9A-4AEF-87A4-A87256CB50DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A1BF68E-C84D-4712-956E-8F8B1EA757C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1BF68E-C84D-4712-956E-8F8B1EA757C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1BF68E-C84D-4712-956E-8F8B1EA757C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1BF68E-C84D-4712-956E-8F8B1EA757C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
