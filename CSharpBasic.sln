@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29KeywordsThisEBase", "29Ke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30Polimorfismo", "30Polimorfismo\30Polimorfismo.csproj", "{CF38C886-3539-454E-91EF-7E11A81AC7BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31ClassesAbstratasFinaisParciais", "31ClassesAbstratasFinaisParciais\31ClassesAbstratasFinaisParciais.csproj", "{9BB89A21-B0C9-4A89-86BB-F68AD4FBCAF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{CF38C886-3539-454E-91EF-7E11A81AC7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF38C886-3539-454E-91EF-7E11A81AC7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF38C886-3539-454E-91EF-7E11A81AC7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB89A21-B0C9-4A89-86BB-F68AD4FBCAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB89A21-B0C9-4A89-86BB-F68AD4FBCAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB89A21-B0C9-4A89-86BB-F68AD4FBCAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB89A21-B0C9-4A89-86BB-F68AD4FBCAF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
