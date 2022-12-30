@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30Polimorfismo", "30Polimor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31ClassesAbstratasFinaisParciais", "31ClassesAbstratasFinaisParciais\31ClassesAbstratasFinaisParciais.csproj", "{9BB89A21-B0C9-4A89-86BB-F68AD4FBCAF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32MetodosAbstratos", "32MetodosAbstratos\32MetodosAbstratos.csproj", "{2DED07E4-6F04-4F51-858B-9AF9CB530A39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{9BB89A21-B0C9-4A89-86BB-F68AD4FBCAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BB89A21-B0C9-4A89-86BB-F68AD4FBCAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BB89A21-B0C9-4A89-86BB-F68AD4FBCAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DED07E4-6F04-4F51-858B-9AF9CB530A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DED07E4-6F04-4F51-858B-9AF9CB530A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DED07E4-6F04-4F51-858B-9AF9CB530A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DED07E4-6F04-4F51-858B-9AF9CB530A39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
