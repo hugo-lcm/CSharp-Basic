@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32MetodosAbstratos", "32Met
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33Interfaces", "33Interfaces\33Interfaces.csproj", "{818BC1E2-49A5-4228-9630-7B5D29DF9E4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34Structs", "34Structs\34Structs.csproj", "{F5FB3679-9844-46E2-B527-E588D4CEC1B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{818BC1E2-49A5-4228-9630-7B5D29DF9E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{818BC1E2-49A5-4228-9630-7B5D29DF9E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{818BC1E2-49A5-4228-9630-7B5D29DF9E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5FB3679-9844-46E2-B527-E588D4CEC1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FB3679-9844-46E2-B527-E588D4CEC1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FB3679-9844-46E2-B527-E588D4CEC1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FB3679-9844-46E2-B527-E588D4CEC1B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
