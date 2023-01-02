@@ -49,6 +49,7 @@
             this.listBoxContatos.Name = "listBoxContatos";
             this.listBoxContatos.Size = new System.Drawing.Size(264, 186);
             this.listBoxContatos.TabIndex = 0;
+            this.listBoxContatos.SelectedIndexChanged += new System.EventHandler(this.listBoxContatos_SelectedIndexChanged);
             // 
             // label1
             // 
@@ -126,6 +127,7 @@
             this.btnExcluir.TabIndex = 9;
             this.btnExcluir.Text = "Excluir";
             this.btnExcluir.UseVisualStyleBackColor = true;
+            this.btnExcluir.Click += new System.EventHandler(this.btnExcluir_Click);
             // 
             // btnSalvar
             // 
