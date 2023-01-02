@@ -21,6 +21,7 @@ namespace _35Agenda
         {
             AlterarBotoesSalvarCancelar(false);
             AlterarBotoesIncluirAlterarExcluir(true);
+            CarregarListaContatos();
         }
 
         private void AlterarBotoesSalvarCancelar(bool estado)
@@ -52,6 +53,41 @@ namespace _35Agenda
         {
             AlterarBotoesSalvarCancelar(false);
             AlterarBotoesIncluirAlterarExcluir(true);
+        }
+
+        private void btnSalvar_Click(object sender, EventArgs e)
+        {
+            Contato contato = new Contato
+            {
+                Nome = txbNome.Text,
+                Email = txbEmail.Text,
+                NumeroTelefone = txbTelefone.Text
+            };
+            List<Contato> contatosList = new List<Contato>();
+            foreach (Contato x in listBoxContatos.Items)
+            {
+                contatosList.Add(x);
+            }
+            contatosList.Add(contato);
+            ManipuladorArquivos.EscreverArquivo(contatosList);
+            CarregarListaContatos();
+            AlterarBotoesSalvarCancelar(false);
+            AlterarBotoesIncluirAlterarExcluir(true);
+            LimparCampos();
+        }
+
+        private void CarregarListaContatos()
+        {
+            listBoxContatos.Items.Clear();
+            listBoxContatos.Items.AddRange(ManipuladorArquivos.LerArquivo().ToArray());
+        }
+
+        private void LimparCampos()
+        {
+            txbNome.Clear();
+            txbEmail.Clear();
+            txbTelefone.Clear();
+
         }
     }
 }

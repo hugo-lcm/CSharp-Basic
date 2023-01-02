@@ -18,5 +18,10 @@ namespace _35Agenda
             this.Email = email;
             this.NumeroTelefone = numeroTelefone;
         }
+
+        public override string ToString()
+        {
+            return $"{this.Nome} - {this.Email}, {this.NumeroTelefone}";
+        }
     }
 }
