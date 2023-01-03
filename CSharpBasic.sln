@@ -45,19 +45,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27ClasseObject", "27ClasseO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28SobrescritaDeMetodos", "28SobrescritaDeMetodos\28SobrescritaDeMetodos.csproj", "{9082EB2D-51D7-4B8B-81E5-BE11309F036D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29KeywordsThisEBase", "29KeywordsThisEBase\29KeywordsThisEBase.csproj", "{CCD571FC-2876-4F7C-A797-AEAFC48F6A96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29KeywordsThisEBase", "29KeywordsThisEBase\29KeywordsThisEBase.csproj", "{CCD571FC-2876-4F7C-A797-AEAFC48F6A96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30Polimorfismo", "30Polimorfismo\30Polimorfismo.csproj", "{CF38C886-3539-454E-91EF-7E11A81AC7BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30Polimorfismo", "30Polimorfismo\30Polimorfismo.csproj", "{CF38C886-3539-454E-91EF-7E11A81AC7BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31ClassesAbstratasFinaisParciais", "31ClassesAbstratasFinaisParciais\31ClassesAbstratasFinaisParciais.csproj", "{9BB89A21-B0C9-4A89-86BB-F68AD4FBCAF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31ClassesAbstratasFinaisParciais", "31ClassesAbstratasFinaisParciais\31ClassesAbstratasFinaisParciais.csproj", "{9BB89A21-B0C9-4A89-86BB-F68AD4FBCAF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32MetodosAbstratos", "32MetodosAbstratos\32MetodosAbstratos.csproj", "{2DED07E4-6F04-4F51-858B-9AF9CB530A39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32MetodosAbstratos", "32MetodosAbstratos\32MetodosAbstratos.csproj", "{2DED07E4-6F04-4F51-858B-9AF9CB530A39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33Interfaces", "33Interfaces\33Interfaces.csproj", "{818BC1E2-49A5-4228-9630-7B5D29DF9E4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33Interfaces", "33Interfaces\33Interfaces.csproj", "{818BC1E2-49A5-4228-9630-7B5D29DF9E4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34Structs", "34Structs\34Structs.csproj", "{F5FB3679-9844-46E2-B527-E588D4CEC1B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34Structs", "34Structs\34Structs.csproj", "{F5FB3679-9844-46E2-B527-E588D4CEC1B9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35Agenda", "35Agenda\35Agenda.csproj", "{3F77090D-DE11-47D5-925F-1FB454C67F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36Exercicios", "36Exercicios\36Exercicios.csproj", "{42CB590F-391D-46AE-85CC-513771E34D71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{3F77090D-DE11-47D5-925F-1FB454C67F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F77090D-DE11-47D5-925F-1FB454C67F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F77090D-DE11-47D5-925F-1FB454C67F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42CB590F-391D-46AE-85CC-513771E34D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42CB590F-391D-46AE-85CC-513771E34D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42CB590F-391D-46AE-85CC-513771E34D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42CB590F-391D-46AE-85CC-513771E34D71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
